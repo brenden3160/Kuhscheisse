@@ -1,14 +1,14 @@
 body{
-  background-color: burgundy;
+  background-color: DarkRed;
   }
   
 h1{
-    color: yellow;
+    color: Gold;
     text-allign: center;
  }
    
 p{
-   font-family: arial;
+   font-family: Courier New;
    font-size: 20px;
  }
   
