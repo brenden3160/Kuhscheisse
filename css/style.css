@@ -1,16 +1,16 @@
 body{
-  background-color: Black;
+  background-color: Ivory;
   }
   
 h1{
-    color: Chartreuse;
+    color: SlateGrey;
     text-allign: center;
-   font-family: Courier New;
+   font-family: Arial;
  }
    
 p{
-   font-family: Courier New;
+   font-family: Arial;
    font-size: 20px;
-   color: Chartreuse;
+   color: SlateGrey;
  }
   
