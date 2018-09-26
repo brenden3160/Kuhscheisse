@@ -10,7 +10,7 @@ h1{
    
 p{
    font-family: Arial;
-   font-size: 20 px;
+   font-size: 20px;
    color: SlateGrey;
  }
   
@@ -21,6 +21,6 @@ li{
 }
 
 img.resize{
-  width: 350 px;
+  width: 350px;
   height: auto;
 }
