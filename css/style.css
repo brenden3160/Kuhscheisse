@@ -20,7 +20,7 @@ li{
   text-color:SlateGrey;
 }
 
-img{
-  width:200 px;
+img.resize{
+  width: 35%;
   height: auto;
 }
