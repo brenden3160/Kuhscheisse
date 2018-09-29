@@ -1,26 +1,26 @@
 body{
-  background-color: Ivory;
+  background-color: Ivory; /*background of website is ivory in color*/
   }
   
 h1{
-    color: SlateGrey;
-    text-align: center;
-   font-family: Arial;
+    color: SlateGrey; /*text color is grey*/
+    text-align: center; /*header is centered in middle of page*/
+   font-family: Arial; /*font style of header text*/
  }
    
 p{
-   font-family: Arial;
-   font-size: 20px;
-   color: SlateGrey;
+   font-family: Arial; /*font style of paragraph text*/
+   font-size: 20px; /*size of paragraph text*/
+   color: SlateGrey; /*text color is grey*/
  }
   
 li{
-  font-family: Arial;
-    text-align: left;
-  color:SlateGrey;
+  font-family: Arial; /*font style of items in list*/
+    text-align: left; /*alignment of items in list go to the left*/
+  color:SlateGrey; /*text color is grey*/
 }
 
 img {
-  width: auto;
-  height: 35%;
+  width: auto; /*photo width adjusted to be porportional to edited height*/
+  height: 35%; /*height of picture is 35% of original*/
 }
