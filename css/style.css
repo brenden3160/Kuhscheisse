@@ -7,6 +7,9 @@ body{
     text-align: center; /*header is centered in middle of page*/
    font-family: Arial; /*font style of header text*/
  }
+#title{
+  color:SlateGray;
+}
    
 p{
    font-family: Arial; /*font style of paragraph text*/
