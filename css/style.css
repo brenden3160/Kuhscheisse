@@ -2,7 +2,7 @@ body{
   background-color: Ivory; /*background of website is ivory in color*/
   }
   
-#h1{
+.h1{
     color: SlateGrey; /*text color is grey*/
     text-align: center; /*header is centered in middle of page*/
    font-family: Arial; /*font style of header text*/
@@ -14,7 +14,7 @@ p{
    color: SlateGrey; /*text color is grey*/
  }
   
-.li{
+li{
   font-family: Arial; /*font style of items in list*/
     text-align: left; /*alignment of items in list go to the left*/
   color:SlateGrey; /*text color is grey*/
