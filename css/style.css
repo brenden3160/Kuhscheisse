@@ -2,7 +2,7 @@ body{
   background-color: Ivory; /*background of website is ivory in color*/
   }
   
-h1{
+#h1{
     color: SlateGrey; /*text color is grey*/
     text-align: center; /*header is centered in middle of page*/
    font-family: Arial; /*font style of header text*/
