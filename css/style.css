@@ -14,7 +14,7 @@ p{
    color: SlateGrey; /*text color is grey*/
  }
   
-li{
+.li{
   font-family: Arial; /*font style of items in list*/
     text-align: left; /*alignment of items in list go to the left*/
   color:SlateGrey; /*text color is grey*/
