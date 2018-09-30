@@ -14,11 +14,13 @@ h2{
    font-family: Arial; /*font style of header text*/
   font-size: 24px;
 }
+#smallheader{
+  color: Black;
+}
 
 .links{
   color: Black;
   font-family: Georgia;
-  
 }
    
 p{
