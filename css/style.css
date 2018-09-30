@@ -8,6 +8,11 @@ h1{
    font-family: Arial; /*font style of header text*/
  }
 
+h2{
+   color: ForestGreen; /*text color is grey*/
+   text-align: center; /*header is centered in middle of page*/
+   font-family: Georgia; /*font style of header text*/
+
 .links{
   color: Black;
   font-family: Georgia;
