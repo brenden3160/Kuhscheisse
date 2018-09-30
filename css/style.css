@@ -9,9 +9,10 @@ h1{
  }
 
 h2{
-   color: ForestGreen; /*text color is grey*/
+   color: Red; /*text color is grey*/
    text-align: center; /*header is centered in middle of page*/
    font-family: Georgia; /*font style of header text*/
+  font-size: 24px;
 }
 
 .links{
