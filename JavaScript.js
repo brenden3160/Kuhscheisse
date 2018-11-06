@@ -3,4 +3,5 @@ function myButton() {
   var d= new Date();
   var n = d.toLocalTimeString(); 
   document.getElementById("demo").innerHTML = n;
+  console.log(d);
 }
