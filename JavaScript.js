@@ -1,5 +1,6 @@
 function myButton () {
 //references my button//
-  Date(); 
+  var doy= new Date();
+  var n = d.toLocalTimeString(); 
   myButton();
 }
