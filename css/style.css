@@ -1,5 +1,6 @@
 body{
-  background-color: Ivory; /*background of website is ivory in color*/
+  background url:("https://www.grbminc.com/wp-content/uploads/2015/03/hagen-design-website-background.jpg")fixed;
+  background-size: cover;
   }
   
 h1{
