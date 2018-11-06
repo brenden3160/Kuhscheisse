@@ -1,5 +1,6 @@
 //references my button//
 function startTime() {
+    console.log ("hi");
     var today = new Date();
     var h = today.getHours();
     var m = today.getMinutes();
