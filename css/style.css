@@ -40,6 +40,8 @@ li{
 img {
   width: auto; /*photo width adjusted to be porportional to edited height*/
   height: 35%; /*height of picture is 35% of original*/
-    display: block;
-
+  display: block;
+  border-style: solid;
+  border-color: SlateGrey;
+  border-width: 5px;
 }
