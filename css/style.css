@@ -44,3 +44,10 @@ img {
   border-color: SlateGrey;
   border-width: 5px;
 }
+
+video {
+    border-style: solid;
+  border-color: SlateGrey;
+  border-width: 5px;
+}
+  
