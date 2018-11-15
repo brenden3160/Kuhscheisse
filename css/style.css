@@ -10,7 +10,7 @@ h1{
  }
 
 h2{
-   text-color: SlateGray; 
+   text-color: SlateGrey; 
    text-align: center; /*header is centered in middle of page*/
    font-family: Arial; /*font style of header text*/
   font-size: 24px;
@@ -41,6 +41,5 @@ img {
   width: auto; /*photo width adjusted to be porportional to edited height*/
   height: 35%; /*height of picture is 35% of original*/
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+
 }
