@@ -4,18 +4,18 @@ body{
   }
   
 h1{
-    color: SlateGrey; /*text color is grey*/
+    color: #585858; /*text color is grey*/
     text-align: center; /*header is centered in middle of page*/
    font-family: Arial; /*font style of header text*/
  }
 
 h2{
-    color: SlateGrey; /*text color is grey*/
+    color: #585858; /*text color is grey*/
     text-align: center; /*header is centered in middle of page*/
    font-family: Arial; /*font style of header text*/
 }
 #lildude {
-  color: SlateGrey;
+  color: #585858;
   font-size: 22px;
 }
 
@@ -27,13 +27,13 @@ h2{
 p{
    font-family: Arial; /*font style of paragraph text*/
    font-size: 20px; /*size of paragraph text*/
-   color: SlateGrey; /*text color is grey*/
+   color: #585858; /*text color is grey*/
  }
   
 li{
   font-family: Arial; /*font style of items in list*/
     text-align: left; /*alignment of items in list go to the left*/
-  color:SlateGrey; /*text color is grey*/
+  color: #585858; /*text color is grey*/
 }
 
 img {
@@ -41,13 +41,13 @@ img {
   height: 35%; /*height of picture is 35% of original*/
   display: block;
   border-style: solid;
-  border-color: SlateGrey;
+  border-color: #585858;
   border-width: 5px;
 }
 
 video {
     border-style: solid;
-  border-color: SlateGrey;
+  border-color: #585858;
   border-width: 5px;
 }
   
