@@ -14,10 +14,17 @@ h2{
     text-align: center; /*header is centered in middle of page*/
    font-family: Arial; /*font style of header text*/
 }
-#welcome {
+.welcome {
   color: #FAFAFA;
   font-size: 48px;
   background-image: url("webback.jpg");
+  box-sizing: border-box;
+  padding: 40px;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  top: 50px;
+}
 }
 
 .who {
