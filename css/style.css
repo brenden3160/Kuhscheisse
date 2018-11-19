@@ -14,9 +14,16 @@ h2{
     text-align: center; /*header is centered in middle of page*/
    font-family: Arial; /*font style of header text*/
 }
-#lildude {
+#welcome {
+  color: #FAFAFA;
+  font-size: 48px;
+  background-image: url("webback.jpg");
+}
+
+.who {
   color: #585858;
-  font-size: 22px;
+  font-size: 24px;
+  background-color: #585858;
 }
 
 .links{
