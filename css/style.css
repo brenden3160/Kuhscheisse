@@ -1,8 +1,8 @@
-body{
-  background-attachment: fixed;
-  background-size: cover;
-  }
-  
+body {
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
 h1{
     color: #585858; /*text color is grey*/
     text-align: center; /*header is centered in middle of page*/
@@ -15,16 +15,17 @@ h2{
    font-family: Arial; /*font style of header text*/
 }
 .welcome {
-  color: #FAFAFA;
-  font-size: 48px;
   background-image: url("webback.jpg");
-  box-sizing: border-box;
-  padding: 40px;
-  text-align: center;
-  width: 100%;
-  position: relative;
-  top: 50px;
 }
+
+.welcome h1 {
+  color: #FAFAFA;
+  font-size: 36px;
+  text-align: center;
+}
+
+.welcome img {
+  display: block;
 }
 
 .who {
