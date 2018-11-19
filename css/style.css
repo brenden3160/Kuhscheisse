@@ -25,9 +25,9 @@ body {
   background-color: #585858;
 }
 
-.links{
-  color: Red;
-  font-family: Georgia;
+link {
+  color: Black;
+  font-family: Arial;
 }
    
 p{
