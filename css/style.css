@@ -4,16 +4,6 @@ body {
   color: #585858;
 }
 
-h1{
-    text-align: center; /*header is centered in middle of page*/
-   font-family: Arial; /*font style of header text*/
- }
-
-h2{
-    color: #585858; /*text color is grey*/
-    text-align: center; /*header is centered in middle of page*/
-   font-family: Arial; /*font style of header text*/
-}
 .welcome {
   background-image: url("Kuhscheisse/webback.jpg");
 }
