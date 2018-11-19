@@ -23,6 +23,12 @@ h2{
   color: Red;
   font-family: Georgia;
 }
+
+.portrait {
+      display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
    
 p{
    font-family: Arial; /*font style of paragraph text*/
