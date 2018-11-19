@@ -1,6 +1,5 @@
 body {
   font-family: Seravek Light;
-  color: #585858;
 }
 
 .welcome {
@@ -18,7 +17,7 @@ body {
 }
 
 .who {
-  color: #585858;
+  color: #FAFAFA;
   font-size: 24px;
   background-color: #585858;
 }
@@ -26,13 +25,6 @@ body {
 .links{
   color: Red;
   font-family: Georgia;
-}
-
-.portrait {
-      display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
 }
    
 p{
@@ -49,7 +41,6 @@ li{
 img {
   width: auto; /*photo width adjusted to be porportional to edited height*/
   height: 35%; /*height of picture is 35% of original*/
-  display: block;
   border-style: solid;
   border-color: #585858;
   border-width: 5px;
