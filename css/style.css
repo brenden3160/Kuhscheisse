@@ -1,10 +1,10 @@
 body {
   background-color: white;
   font-family: 'Raleway', sans-serif;
+  color: #585858;
 }
 
 h1{
-    color: #585858; /*text color is grey*/
     text-align: center; /*header is centered in middle of page*/
    font-family: Arial; /*font style of header text*/
  }
@@ -15,7 +15,7 @@ h2{
    font-family: Arial; /*font style of header text*/
 }
 .welcome {
-  background-image: url("webback.jpg");
+  background-image: url("Kuhscheisse/webback.jpg");
 }
 
 .welcome h1 {
