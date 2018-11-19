@@ -1,6 +1,5 @@
 body {
-  background-color: white;
-  font-family: 'Raleway', sans-serif;
+  font-family: Seravek Light;
   color: #585858;
 }
 
@@ -37,7 +36,6 @@ body {
 }
    
 p{
-   font-family: Arial; /*font style of paragraph text*/
    font-size: 20px; /*size of paragraph text*/
    color: #585858; /*text color is grey*/
  }
