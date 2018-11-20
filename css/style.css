@@ -59,6 +59,10 @@ footer {
  background-color: #585858;
 }
 
+.paper {
+    display: block;
+}
+
 .links {
   .lang {
   font-family: Seravek Light;
