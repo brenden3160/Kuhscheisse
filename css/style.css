@@ -12,6 +12,20 @@ body {
 h2 {
     font-size: 24px;
 }
+
+.button {
+    background-color: #DBE9EE;
+    border: none;
+    color: #585858;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
 .welcome {
   background-color: #DBE9EE;
   text-align: center;
