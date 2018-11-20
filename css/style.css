@@ -56,11 +56,9 @@ video {
 }
 
 footer {
- background-color: #585858;
-}
-
-.paper {
-    display: block;
+  background-color: #DBE9EE;
+  text-align: center;
+  height: 100px;
 }
 
 .links {
