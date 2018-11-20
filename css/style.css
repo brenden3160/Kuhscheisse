@@ -1,6 +1,7 @@
 body {
   font-family: Seravek Light;
-  background-color: #585858;
+  color: #585858;
+    font-size: 24px;
 }
 
 .welcome {
@@ -23,26 +24,19 @@ body {
 
 .who {
   color: #556B2F;
-  font-size: 24px;
-  background-color: #000000;
 }
 
+
 .lang {
-  background-color: #FFF;
-  font-size: 24px;
-  color: #585858;
 }
 
    
 p{
-   font-size: 20px; /*size of paragraph text*/
-   color: #585858; /*text color is grey*/
+  
  }
   
 li{
-  font-family: Arial; /*font style of items in list*/
-    text-align: left; /*alignment of items in list go to the left*/
-  color: #585858; /*text color is grey*/
+  text-align: left; /*alignment of items in list go to the left*/
 }
 
 img {
@@ -54,7 +48,7 @@ img {
 }
 
 video {
-    border-style: solid;
+  border-style: solid;
   border-color: #585858;
   border-width: 5px;
 }
