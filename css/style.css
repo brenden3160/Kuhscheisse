@@ -23,11 +23,13 @@ body {
 }
 
 .who {
-  color: #556B2F;
 }
 
 
 .lang {
+  font-family: Seravek Light;
+  color: #585858;
+  font-size: 24px;
 }
 
    
