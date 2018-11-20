@@ -1,3 +1,7 @@
+header{
+    color: #585858;
+}
+
 body {
   font-family: Seravek Light;
   color: #585858;
@@ -7,7 +11,6 @@ body {
 .welcome {
   background-color: #DBE9EE;
   text-align: center;
-  height: 100px;
 }
 
 .welcome h1 {
