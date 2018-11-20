@@ -54,4 +54,15 @@ video {
   border-color: #585858;
   border-width: 5px;
 }
+
+footer {
+ background-color: #585858;
+}
+
+.links {
+  .lang {
+  font-family: Seravek Light;
+  color: #FFF;
+  font-size: 24px;
+  }
   
