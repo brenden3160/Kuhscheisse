@@ -5,8 +5,9 @@ body {
 }
 
 .welcome {
-  width: 110%;
-  background-image: url("http://getwallpapers.com/wallpaper/full/5/e/d/807081-free-download-dark-abstract-backgrounds-1920x1080-meizu.jpg");
+  background-color: #DBE9EE;
+  text-align: center;
+  height: 100px;
 }
 
 .welcome h1 {
