@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+   <html lang="en-US"> <meta charset="UTF-8">
+   <head>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130079584-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-130079584-1');
+</script>
+
+      <a href="https://brenden3160.github.io/personal/index.html" class="button">Home</a>
+      <a href="https://brenden3160.github.io/personal/projects.html" class="button">Projects</a>
+     <title>Robert Rathgeber</title>
+     <link rel="stylesheet" type="text/css" href="css/style.css">
+   </head>
+      <div class= "robotics">
+  <body>  
+     <nav class="welcome">
+        <h1>Current Projects</h1>
+         <img src="IMG_E5879.JPG" alt="Me with plane" style="width:auto;height:180px;">
+       <p>Robert "Brenden" Rathgeber | Florida Gulf Coast University | Accounting & Computer Science Major</p>
+       </div>  
+     <div class= mywork>
+     <h2>My Experience in Introduction to Computer Science</h2>
+     
+     <p></p>
+
+     </div>
+         <footer>
+     <p>My Social Media:</p>
+    <nav class="links">
+       <a href="https://www.facebook.com/brenden.rathgeber.9?ref=bookmarks">Facebook</a>
+       <a href="https://twitter.com/g1ng3r_snap">Twitter</a>
+       <a href="https://www.instagram.com/brendenrathgeber/">Instagram</a>
+       <a href="https://www.linkedin.com/in/brenden-rathgeber-201a11174/">LinkedIn</a>
+    </nav>
+            </nav>
+    </footer>        
+   </body>
+ </html>
+
+/*
+<script>
