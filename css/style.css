@@ -1,7 +1,7 @@
 head{
     color: #585858;
     background-color: #DBE9EE;
-} /header blue color
+} /*header blue color*/
 
 body {
   font-family: Seravek Light;
@@ -11,7 +11,7 @@ body {
 
 h2 {
     font-size: 24px;
-}/font for heading 2
+}/*font for heading 2*/
 
 .button {
     background-color: #DBE9EE;
@@ -25,7 +25,7 @@ h2 {
     font-size: 18px;
     margin: 4px 2px;
     cursor: pointer;
-} /making my buttons attractive
+} /*making my buttons attractive*/
 
 .welcome {
   background-color: #DBE9EE;
@@ -43,7 +43,7 @@ h2 {
     margin-right: auto;
     width: 50%;
 }
-e
+
 
 .lang {
   font-family: Seravek Light;
