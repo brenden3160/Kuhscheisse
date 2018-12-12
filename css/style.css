@@ -1,17 +1,17 @@
 head{
     color: #585858;
     background-color: #DBE9EE;
-}
+} /header blue color
 
 body {
   font-family: Seravek Light;
   color: #585858;
     font-size: 24px;
-}
+} 
 
 h2 {
     font-size: 24px;
-}
+}/font for heading 2
 
 .button {
     background-color: #DBE9EE;
@@ -25,7 +25,7 @@ h2 {
     font-size: 18px;
     margin: 4px 2px;
     cursor: pointer;
-}
+} /making my buttons attractive
 
 .welcome {
   background-color: #DBE9EE;
@@ -43,10 +43,7 @@ h2 {
     margin-right: auto;
     width: 50%;
 }
-
-.who {
-}
-
+e
 
 .lang {
   font-family: Seravek Light;
@@ -57,10 +54,7 @@ h2 {
 .mywork {
 text-align: center;
 }
-   
-p{
   
- }
   
 li{
   text-align: left; /*alignment of items in list go to the left*/
@@ -91,4 +85,3 @@ footer {
   color: #FFF;
   font-size: 24px;
 }
-
