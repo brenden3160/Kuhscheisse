@@ -4,14 +4,14 @@ head{
 } /*header blue color*/
 
 body {
-  font-family: Seravek Light;
+  font-family: Arial;
   color: #585858;
     font-size: 24px;
 } 
 
 h2 {
     font-size: 24px;
-    font-family: Seravek Light;
+    font-family: Arial;
 }/*font for heading 2*/
 
 .button {
@@ -21,7 +21,7 @@ h2 {
     padding: 12px 22px;
     text-align: center;
     text-decoration: none;
-    font-family: Seravek Light;
+    font-family: Arial;
     display: inline-block;
     font-size: 18px;
     margin: 4px 2px;
@@ -35,7 +35,6 @@ h2 {
 
 .welcome h1 {
   font-size: 36px;
-    font-family: Seravek Light;
   text-align: center;
 }
 
@@ -48,7 +47,6 @@ h2 {
 
 
 .lang {
-  font-family: Seravek Light;
   color: #585858;
   font-size: 24px;
 }
@@ -83,7 +81,6 @@ footer {
 }
 
 .links {
-  font-family: Seravek Light;
   color: #FFF;
   font-size: 24px;
 }
