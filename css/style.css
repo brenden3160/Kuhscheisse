@@ -60,11 +60,11 @@ li{
   text-align: left; /*alignment of items in list go to the left*/
 }
 a{
-    color: green;
+    color: white;
 }
 
 a:hover, a:active {
-    background-color: blue;
+    background-color: #DBE9EE;
 }
 
 //make buttons light up
