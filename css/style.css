@@ -28,6 +28,11 @@ h2 {
     cursor: pointer;
 } /*making my buttons attractive*/
 
+a:hover, a:active {
+    background-color: blue;
+}
+//make buttons light up
+
 .welcome {
   background-color: #DBE9EE;
   text-align: center;
